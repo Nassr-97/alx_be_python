@@ -10,4 +10,4 @@ def perform_operation(num1, num2, operation):
             if (num2 != 0):
                 return num1/num2
             elif (num2 == 0):
-                print("division by zero detected")
+                print("division by zero detected; num2==0:")

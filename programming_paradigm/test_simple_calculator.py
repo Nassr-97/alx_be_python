@@ -28,7 +28,7 @@ class TestSimpleCalculator(unittest.TestCase):
         # Add more assertions to thoroughly test the add method.
 
 
-    def test_devision(self):
+    def test_division(self):
         """Test the divide method."""
         self.assertEqual(self.calc.divide(6, 2), 3)
         self.assertEqual(self.calc.divide(3, 0), AssertionError)

@@ -14,5 +14,6 @@ def safe_divide(numerator, denominator):
         return
     else:
         print(f"The result of the division is {result:.1f}")
+        return
 
 

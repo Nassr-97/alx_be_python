@@ -1,7 +1,7 @@
 task = input("Enter your task: ")
 
 time_bound = input("Is it time-bound? (yes/no): ")
-git add
+
 priority = input("Priority (high/medium/low): ")
 
 match priority:
